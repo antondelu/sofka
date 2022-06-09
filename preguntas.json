@@ -1,0 +1,166 @@
+[
+
+    {
+        "categoria": "Programacion",
+        "pregunta": " Cual de estos no es un lenguaje de programacion ?",
+        "respuesta": "KOENIX",
+        "incorrecta1": "CSS",
+        "incorrecta2": "COBOL",
+        "incorrecta3": "HTML",
+        "incorrecta4": "PASCAL",
+        "imagen": "./assets/programacion.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Programacion",
+        "pregunta": " Cual es la principal diferencia entre let var y const ?",
+        "respuesta": "El alcance (scope)",
+        "incorrecta1": "Son lo mismo",
+        "incorrecta2": "El tipo de dato que se puede guardar",
+        "incorrecta3": "Let no se puede poner dentro de una funcion",
+        "incorrecta4": "Ninguna de las anteriores",
+        "imagen": "./assets/programacion2.webp",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Programacion",
+        "pregunta": "Cual es la diferencia entre == y === ?",
+        "respuesta": "A == lo considera igualdad débil y a === le considera igualdad estricta",
+        "incorrecta1": "Son iguales",
+        "incorrecta2": "No se usa ==",
+        "incorrecta3": "Uno compara y el otro asigna un valor",
+        "incorrecta4": "Ninguna de las anteriores"
+    },
+    {
+        "categoria": "Cultura general",
+        "pregunta": "Es una figura clave del dadaísmo y el surrealismo.",
+        "respuesta": "Max Ernst",
+        "incorrecta1": "Pablo Picasso",
+        "incorrecta2": "Vincent Van Gogh",
+        "incorrecta3": "Claude Monet\r",
+        "incorrecta4": "Meend Bluert",
+        "imagen": "https://i.ibb.co/dLw3jng/Dada-min-e1533749290497.jpg"
+    },
+    {
+        "categoria": "Cultura general",
+        "pregunta": "Profesión que tenía Hércules Poirot en las novelas de Agatha Christie.",
+        "respuesta": "Detective",
+        "incorrecta1": "Abogado",
+        "incorrecta2": "Escritor",
+        "incorrecta3": "Vocero\r",
+        "incorrecta4": "Paises nordicos",
+        "imagen": "./assets/profesion.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Cultura general",
+        "pregunta": "Cosa perdida que buscaba Marcel Proust.",
+        "respuesta": "El Tiempo",
+        "incorrecta1": "La Cabeza",
+        "incorrecta2": "Su Lengua",
+        "incorrecta3": "La Luz\r",
+        "incorrecta4": "Paises nordicos",
+        "imagen": "./assets/perdido.webp",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Cultura general",
+        "pregunta": "Protagonista de \"El código Da Vinci\" de Dan Brown",
+        "respuesta": "Robert Langdom",
+        "incorrecta1": "Sherlock Holmes",
+        "incorrecta2": "Katniss Everdeen",
+        "incorrecta3": "Hermione Jean Granger\r",
+        "incorrecta4": "Paises nordicos",
+        "imagen": "https://i.ibb.co/hDzmpKG/code-da-vinci.jpg",
+        "objectFit": "contain"
+    },
+
+    {
+        "categoria": "Cultura general",
+        "pregunta": "Lo que describe una prosopografía.",
+        "respuesta": "El Físico De Una Persona",
+        "incorrecta1": "La estructura de un Poema",
+        "incorrecta2": "El Autor De Una Obra En Prosa",
+        "incorrecta3": "Un Auto\r",
+        "incorrecta4": "Miedo a la pornografia",
+        "imagen": "./assets/pregunta.webp",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Cultura general",
+        "pregunta": "Escritor español que firmaba como Fígaro.",
+        "respuesta": "Mariano José De Larra",
+        "incorrecta1": "Mercedes Abad",
+        "incorrecta2": "Fígaro",
+        "incorrecta3": "Manuel Vázquez Montalbán\r",
+        "incorrecta4": "Paises nordicos",
+        "imagen": "./assets/firma.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "Qué equipo de la Premier League tiene más ligas ganadas ?",
+        "respuesta": "El Manchester United",
+        "incorrecta1": "Barcelona",
+        "incorrecta2": "Real Madrid",
+        "incorrecta3": "Chelsea",
+        "incorrecta4": "Liverpool",
+        "imagen": "./assets/premier.webp",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "En qué año debutó Pep Guardiola como entrenador del FC Barcelona ?",
+        "respuesta": "17 de Junio de 2008",
+        "incorrecta1": "22 de Agosto de 2007",
+        "incorrecta2": "22 de Febrero de 2009",
+        "incorrecta3": "17 de Noviembre de 20012",
+        "incorrecta4": "04 de Abril de 2022",
+        "imagen": "./assets/guardiola.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "Qué tipo de competición es el Giro de Italia ? ",
+        "respuesta": "Ciclismo",
+        "incorrecta1": "Automovilismo",
+        "incorrecta2": "Golf",
+        "incorrecta3": "Natacion",
+        "incorrecta4": "Salto en largo",
+        "imagen": "./assets/italia.webp",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Cine",
+        "pregunta": "Cuál es la película más taquilllera de la historia ?",
+        "respuesta": "Avengers",
+        "incorrecta1": "Titanic",
+        "incorrecta2": "Mi pobre angelito",
+        "incorrecta3": "Atrapame si puedes",
+        "incorrecta4": "De mendigo a millonario",
+        "imagen": "./assets/cine.jfif",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Cine",
+        "pregunta": " Gente que no posee magia en la saga de Harry Potter.",
+        "respuesta": "Muggles",
+        "incorrecta1": "Hufflepuffs",
+        "incorrecta2": "Ratñingers",
+        "incorrecta3": "Kubys\r",
+        "incorrecta4": "Htyae",
+        "imagen": "https://i.ibb.co/swnsyLp/harry-potter.gif",
+        "objectFit": "contain"
+    }, {
+        "categoria": "Cine",
+        "pregunta": " Por qué película ganó Leonardo DiCaprio su primer Óscar?",
+        "respuesta": "El Renacido",
+        "incorrecta1": "Titanic",
+        "incorrecta2": "Atrapame si puedes",
+        "incorrecta3": "Diamanes de sangre",
+        "incorrecta4": "La isla siniestra",
+        "imagen": "./assets/leonardoDiCaprio.jpg",
+        "objectFit": "contain"
+    }
+
+]

@@ -1,0 +1,79 @@
+
+    * {
+        transition: all 0.3s;
+    }
+
+    body {
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: calibri;
+    font-weight: 200;
+    font-size: 120%;
+    }
+
+    .contenedor {
+    width: 98vw;
+    height: 97vh;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+
+    .encabezado {
+    position: relative;
+    background: white;
+    min-width: 300px;
+    width: 70%;
+    max-width: 600px;
+    padding: 10px;
+    }
+
+    .categoria {
+    opacity: 0.3;
+    text-align: left;
+    }
+
+    .pregunta {
+    padding: 10px;
+    }
+
+    .imagen {
+    object-fit: cover;
+    height: 0px;
+    width: 0px;
+    }
+
+    .btn {
+    background: white;
+    width: 60%;
+    max-width: 550px;
+    padding: 10px;
+    text-align: center;
+    margin: 5px;
+    font-weight: 100;
+    cursor: pointer;
+    }
+
+    .btn:hover {
+    transform: scale(1.05);
+    }
+
+    .numero{
+    position: absolute;
+    opacity:0.3;
+    top: 10px;
+    right: 10px;
+    }
+    .titulo-puntaje{
+    font-size: 30px;
+    font-weight: 200;
+    margin-top: 12%;
+    color: black;
+    }
+    .puntaje{
+    padding:10px;
+    color:white;
+    }
